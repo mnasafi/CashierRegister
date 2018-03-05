@@ -1,0 +1,3 @@
+// Inventory file to keep track of how many items were sold. Purpose is if the user exceeds the items in stock, then give messsage "Sorry! Item is out of stock."
+
+Keep track and update the inventory list as items are sold. Each time program runs, the inventory list should be checked before selling item. 
